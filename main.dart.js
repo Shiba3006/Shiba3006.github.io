@@ -25340,7 +25340,7 @@ A.aif.prototype={
 $1(a){var s=A.ex().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/2e4ba9c6fb499ccd4e81420543783cc7267ae406/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/e76c956498841e1ab458577d3892003e553e4f3c/":s)+a},
 $S:81}
 A.air.prototype={
 $1(a){this.a.remove()
@@ -74391,7 +74391,7 @@ A.afJ.prototype={
 $1(a){return new A.kB(a.b,null)},
 $S:453}
 A.afK.prototype={
-$0(){return A.jM(A.dy("https://github.com/Shiba3006",0,null))},
+$0(){return A.jM(A.dy("https://play.google.com/store/apps/developer?id=Shiba3006",0,null))},
 $S:0}
 A.JG.prototype={
 I(a){var s=null,r=A.bo(a,s,t.w).w,q=A.bk(s,3*$.b4.P()/100,s),p=10*$.b4.P()/100,o=A.bk(s,5*$.b4.P()/100,s)
